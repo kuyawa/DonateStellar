@@ -1,4 +1,4 @@
-# Donate**Stellar** for a good cause
+# DonateStellar for a good cause
 
 ![Donate](./media/donatestellar.jpg)
 
@@ -9,9 +9,9 @@
 In order to use **DonateStellar** on your site you need to follow these easy steps:
 
 - Have a Stellar account with at least 1 XLM in funds
-- Download the DonateStellar.js file from here
-- Download the DonateStellar.jpg image from here
-- Add a click event to your donation image:
+- Download the DonateStellar.js file from [here](./scripts/donatestellar.js)
+- Download the DonateStellar.jpg image from [here](./media/donatestellar.jpg)
+- Add a click event to the donation image:
 ````HTML
 <img src="donatestellar.jpg" onclick="DonateStellar.donation(event)">
 ````
@@ -26,11 +26,11 @@ DonateStellar.setup({address:'G123456YOURADDRESSHERE'});
 
 ### Available options:
 
-`horizon` test or live (default). Use test for playing with it until ready.
-`address` your Stellar public key (required). You can use live or testing accounts.
-`cause` A short explanation of the donation purpose like 'Save the children' or 'Help developers' (optional).
-`onConfirm` A reference to a method you would like to call when donations are confirmed (optional).
-`onCancel` A reference to a method you would like to call when donations are cancelled (optional).
+- `horizon` test or live (default). Use test for playing with it until ready.
+- `address` your Stellar public key (required). You can use live or testing accounts.
+- `cause` A short explanation of the donation purpose like 'Save the children' or 'Help developers' (optional).
+- `onConfirm` A reference to a method you would like to call when donations are confirmed (optional).
+- `onCancel` A reference to a method you would like to call when donations are cancelled (optional).
 
 ### Simple implementation:
 
