@@ -17,7 +17,7 @@ In order to use **DonateStellar** on your site you need to follow these easy ste
 ````
 - Add the DonateStellar.js library at the end of your html code
 ````HTML
-    <script src="donatestellar.js"></script>
+<script src="donatestellar.js"></script>
 ````
 - Initialize the script with your address and any other options on window.load:
 ````JS
@@ -80,7 +80,7 @@ function myDonationCancellation() {
 ````
 
 ## Ok, how much does it cost?
-Nothing. If you are a web developer and have basic html and javascript knowledge you can do it all by yourself in less than ten minutes. If you need help please [open an issue](./issues) and we will gladly lend a hand. Feedback is always welcome and we appreciate all input.
+Nothing. If you are a web developer and have basic html and javascript knowledge you can do it all by yourself in less than ten minutes. If you need help please [open an issue](https://github.com/kuyawa/DonateStellar/issues) and we will gladly lend a hand. Feedback is always welcome and we appreciate all input.
 
 ## Can I use that cool image in my own site?
 Sure! Go ahead and spread the love for Stellar, the world will be a better place if we all do, what's not to love about helping good will causes using a highly reliable platform like the Stellar Network? Children of the world will definitely thank you. And Stellar developers too :)
