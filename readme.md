@@ -80,7 +80,7 @@ function myDonationCancellation() {
 ````
 
 ## Ok, how much does it cost?
-Nothing. If you are a web developer and have basic html and javascript knowledge you can do it all by yourself in less than ten minutes. If you need help please send us an email with any issues and we will gladly lend a hand. Feedback is always welcome and we appreciate all input.
+Nothing. If you are a web developer and have basic html and javascript knowledge you can do it all by yourself in less than ten minutes. If you need help please [open an issue](./issues) and we will gladly lend a hand. Feedback is always welcome and we appreciate all input.
 
 ## Can I use that cool image in my own site?
 Sure! Go ahead and spread the love for Stellar, the world will be a better place if we all do, what's not to love about helping good will causes using a highly reliable platform like the Stellar Network? Children of the world will definitely thank you. And Stellar developers too :)
